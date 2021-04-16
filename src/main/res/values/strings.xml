@@ -1,0 +1,16 @@
+<resources>
+    <string name="UI_Login">Admin | Support</string>
+    <string name="Reg">Регистрация</string>
+    <string name="Login">Логин</string>
+    <string name="Email">NickName</string>
+    <string name="Password">Пароль</string>
+    <string name="app_name">Admin | Support</string>
+    <string name="Login_error">Пожалуйста повторите попытку.</string>
+    <string name="Reg_error">Пожалуйста повторите попытку.</string>
+    <string name="Time">Время в реальн.</string>
+    <string name="WorkGood">Сделанная работа :</string>
+    <string name="TimeServer">Время на сервере</string>
+    <string name="Z">Z :</string>
+    <string name="PM">PM :</string>
+    <string name="Answer">Ans :</string>
+</resources>
